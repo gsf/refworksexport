@@ -1,0 +1,5 @@
+Refworksexport helps your III catalog import records into RefWorks.  It's a 
+PHP script that you run on your web server, then point to it within each 
+record in the OPAC.  See the comments in refworksexport.php for usage.  I've 
+also included in this repo a short refworks.js file that adds an "Export to
+RefWorks" link to the record page.
