@@ -3,3 +3,5 @@ PHP script on your web server, then point to it with a link in each record in
 the OPAC.  See the comments in refworksexport.php for usage.  I've also
 included a short refworks.js file that adds an "Export to RefWorks" link to the
 record page.
+
+Many thanks to Rob Casson for handing the code off to me.
